@@ -1,2 +1,3 @@
 # python-ldd
-Python ldd script 
+Python ldd script. 
+Simple and lightweight.
