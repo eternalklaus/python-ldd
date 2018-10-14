@@ -1,5 +1,5 @@
 # python-ldd
-Python ldd script, simple and lightweight.
+Python ldd script, simple and lightweight.  
 List `SONAME`s of dynamically linked libraries of input binary.
 
 
