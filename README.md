@@ -8,5 +8,3 @@ List `SONAME`s of dynamically linked libraries of input binary.
     libselinux.so.1
     libc.so.6
 
-# Todo
-Resolve library full path from `SONAME`
